@@ -1,2 +1,3 @@
-/admin/pages/assets/*
-/assets/*
+admin/pages/assets/*
+assets/*
+*.css
