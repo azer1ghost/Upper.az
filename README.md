@@ -1,6 +1,8 @@
 # Upper.az
 Upper education təhsil mərkəzinin sifarişi ilə hazırlanmış veb sayt
 
+Bu sayt dinamikdir. Saytın görünüşü vaxt-aşırı dəyişə bilər.
+
 # Welcome to Upper.az!
 
 Hi! This is readme file in **Upper Education**. This is source code of Upper.az website.
